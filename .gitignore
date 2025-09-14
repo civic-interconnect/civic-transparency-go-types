@@ -1,0 +1,17 @@
+# Go build artifacts
+*.exe
+*.test
+*.out
+*.log
+*.cover
+*.prof
+
+# Module/vendor
+vendor/
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
